@@ -2762,7 +2762,7 @@ class Workflow(object):
     def open_terminal(self):
         """Open a Terminal window at workflow's :attr:`workflowdir`."""
 
-        subprocess.call(['open', '-a', 'Terminal',
+        subprocess.call(['open', '-a', 'iTerm',
                         self.workflowdir])
 
     def open_help(self):
