@@ -1,5 +1,5 @@
 
-**I'm not an active Vagrant user and no longer maintaining this project.**
+## Changelog: Change Terminal to iTerm
 
 
 # VagrantUP
